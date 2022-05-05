@@ -9,7 +9,7 @@
  Add One, Remove Two, Think Thrice
 
 
-𖦣 <a href="https://www.especialist.org/0909"> focuse on iCANMART project 🇰🇷</a>
+𖦣 <a href="https://www.especialist.org/0909"> now on iCANMART  🇰🇷</a>
 - 2MAR <a href="https://www.udemy.com/home/my-courses/learning/"><img src="https://img.shields.io/badge/learning-js-red"></a>
 
 ### Reference Links 
