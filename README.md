@@ -26,6 +26,6 @@ for this readMe file.
  - make banner : https://shields.io/ 
  - [awesome readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
  - [well-known companies logos](https://simpleicons.org)
-
+ - [octicons](https://icongr.am/octicons)
 
 
