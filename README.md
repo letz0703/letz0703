@@ -1,4 +1,4 @@
-### Hi 🌐 there 👋 
+### Hi 🌐  👋 
 ![especialist](https://img.shields.io/badge/0-especialist.org-black) 
 ![letz](https://img.shields.io/badge/1-letz-blue)
 ![rainskiss](https://img.shields.io/badge/2-rainskiss-green)
@@ -7,11 +7,14 @@
 <h1> Letz </h1>
 <div>
 <a href="https://twitter.com/home"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fletz0703%2Fletz0703%2Fblob%2Fmaster%2FREADME.md"></a>
-<img src="https://icongr.am/octicons/plus.svg?size=20px&color=0969DA">1
-<img src="https://icongr.am/octicons/trashcan.svg?size=20px&color=0969DA">2
-<img src="https://icongr.am/octicons/link.svg?size=20px&color=0969DA">3
+
+
 </div>
-<h6> Add One, Remove Two, Think Thrice </h6>
+<h6> 
+ Add One<img src="https://icongr.am/octicons/plus.svg?size=20px&color=0969DA">, 
+ Remove Two<img src="https://icongr.am/octicons/trashcan.svg?size=20px&color=0969DA">, 
+ Think Thrice<img src="https://icongr.am/octicons/link.svg?size=20px&color=0969DA">
+</h6>
 
 
 
