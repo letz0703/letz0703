@@ -19,8 +19,8 @@
 
 
 𖦣 <a href="https://www.especialist.org/0909"> now on iCANMART  🇰🇷</a>
-- 2MAR <a href="https://www.udemy.com/home/my-courses/learning/"><img src="https://img.shields.io/badge/learning-js-red"></a>
-
+- 2APR <a href="https://www.udemy.com/home/my-courses/learning/"><img src="https://img.shields.io/badge/learning-js-red"></a>
+- 2MAY <img src="https://img.shields.io/badge/learning-nodejs-green">
 ### Reference Links 
 for this readMe file.
  - make banner : https://shields.io/ 
