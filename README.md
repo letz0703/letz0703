@@ -28,6 +28,7 @@ for this readMe file.
  - [well-known companies logos](https://simpleicons.org)
  - [octicons](https://icongr.am/octicons)
 
-### Vscode 
+### Vscode ?? tools
 - [snppet maker](https://snippet-generator.app/)
+- [regex practice](https://regexr.com/5mhou)
 
