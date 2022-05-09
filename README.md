@@ -27,8 +27,10 @@ for this readMe file.
  - [awesome readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
  - [well-known companies logos](https://simpleicons.org)
  - [octicons](https://icongr.am/octicons)
+ - [regexone](https://regexone.com/) ← regex practice
 
 ### Vscode ?? tools
 - [snppet maker](https://snippet-generator.app/)
 - [regex practice](https://regexr.com/5mhou)
+
 
