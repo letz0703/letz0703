@@ -33,4 +33,7 @@ for this readMe file.
 - [snppet maker](https://snippet-generator.app/)
 - [regex practice](https://regexr.com/5mhou)
 
+### animation JS libraries
+https://www.youtube.com/watch?v=wbDpZwDRgRk
+
 
