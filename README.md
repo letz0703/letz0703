@@ -35,6 +35,6 @@ for this readMe file.
 
 ### animation JS libraries
 https://www.youtube.com/watch?v=wbDpZwDRgRk
-* typeit [samplesite](https://www.especialist.org/typeit/)
+* typeit [preview](https://www.especialist.org/typeit/) & [source](https://github.com/letz0703/typeit)
 
 
