@@ -38,5 +38,5 @@ https://www.youtube.com/watch?v=wbDpZwDRgRk
 * typeit [preview](https://www.especialist.org/typeit/) & [source](https://github.com/letz0703/typeit)
 
 ### 𖦣eureKa  
-- speed up youtube: chorome extension 
+- solve youtube rack by speed it up : chorome extension 
 h264ify [h264ify](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal?hl=ko) and [youtube fps](https://chrome.google.com/webstore/detail/youtube-auto-hd-%20-fps/fcphghnknhkimeagdglkljinmpbagone)
