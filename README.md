@@ -40,3 +40,6 @@ https://www.youtube.com/watch?v=wbDpZwDRgRk
 ### 𖦣eureKa  
 - solve youtube rack by speed it up : chorome extension 
 [h264ify](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal?hl=ko) and [youtube fps](https://chrome.google.com/webstore/detail/youtube-auto-hd-%20-fps/fcphghnknhkimeagdglkljinmpbagone)
+
+#### shortcuts now
+chrome : forece fresh cmd shift R
