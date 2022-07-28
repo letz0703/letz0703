@@ -40,7 +40,9 @@ for this readMe file.
 https://www.youtube.com/watch?v=wbDpZwDRgRk
 * typeit [preview](https://www.especialist.org/typeit/) & [source](https://github.com/letz0703/typeit)
 
-### 𖦣eureKa  
+### 𖦣eureKa 
+[finder tip](https://youtu.be/5B2kPVvyjbU?list=PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG&t=194) 
+↑ Always Open With
 - solve youtube rack by speed it up : chorome extension 
 [h264ify](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal?hl=ko) and [youtube fps](https://chrome.google.com/webstore/detail/youtube-auto-hd-%20-fps/fcphghnknhkimeagdglkljinmpbagone)
 
